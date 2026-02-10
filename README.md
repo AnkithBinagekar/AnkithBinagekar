@@ -29,7 +29,7 @@ Full-stack MRI brain tumor segmentation platform using PyTorch, MONAI, FastAPI, 
 Supports .nii.gz uploads, preprocessing, 3D inference, and slice-based visualization.
 
 **Tech:** PyTorch, MONAI, FastAPI, React, AWS  
-🔗 https://github.com/AnkithBinagekar
+🔗 [https://github.com/AnkithBinagekar](https://segmentation-demo.vercel.app/)
 
 ---
 
@@ -38,7 +38,7 @@ Multi-agent LLM-powered research assistant built using CrewAI and LangGraph with
 Supports local LLM inference via Ollama and modular Python pipelines.
 
 **Tech:** Python, CrewAI, LangGraph, Ollama  
-🔗 https://github.com/AnkithBinagekar
+🔗 [https://github.com/AnkithBinagekar](https://github.com/AnkithBinagekar/multi-agent-research-assistant)
 
 ---
 
@@ -46,7 +46,7 @@ Supports local LLM inference via Ollama and modular Python pipelines.
 Healthcare web application for appointment booking, doctor schedules, patient records, and video consultations.
 
 **Tech:** PHP, MySQL, HTML, CSS, JavaScript  
-🔗 https://github.com/AnkithBinagekar
+🔗 [https://github.com/AnkithBinagekar](https://github.com/AnkithBinagekar/PrimeCare)
 
 ---
 
