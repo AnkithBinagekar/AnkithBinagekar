@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Ankith Binagekar 👋
 
-<!--
-**AnkithBinagekar/AnkithBinagekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML-focused Full-Stack Developer and final-year Information Technology undergraduate (Class of 2026) with hands-on experience building and deploying AI-powered applications. I specialize in integrating machine learning models into scalable backend systems and modern web interfaces.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 About Me
+- Final-year B.E. IT student from Goa, India  
+- Interested in Applied Machine Learning, Backend Engineering, and AI-driven Full-Stack Development  
+- Strong in Python, FastAPI, PyTorch, React, and AWS  
+- Enjoy building end-to-end systems: data → model → API → UI → deployment  
+
+---
+
+## 🔹 Tech Stack
+**Languages:** Python, JavaScript, SQL, C++, Java, C  
+**AI / ML:** PyTorch, MONAI, CNNs, Computer Vision, LLMs, Generative AI, Multi-Agent Systems  
+**Frameworks:** FastAPI, LangChain, CrewAI, LangGraph  
+**Frontend:** React, HTML, CSS, Tailwind CSS  
+**Databases:** MySQL, PostgreSQL  
+**Cloud & Tools:** AWS (EC2, S3), Docker (basic), Git, GitHub, Ollama, Vercel  
+
+---
+
+## 🔹 Featured Projects
+
+### 🧠 Medical Image Segmentation Platform
+Full-stack MRI brain tumor segmentation platform using PyTorch, MONAI, FastAPI, React, and AWS.  
+Supports .nii.gz uploads, preprocessing, 3D inference, and slice-based visualization.
+
+**Tech:** PyTorch, MONAI, FastAPI, React, AWS  
+🔗 https://github.com/AnkithBinagekar
+
+---
+
+### 🤖 Multi-Agent Research Assistant (LLM System)
+Multi-agent LLM-powered research assistant built using CrewAI and LangGraph with Researcher, Analyst, and Writer agents.  
+Supports local LLM inference via Ollama and modular Python pipelines.
+
+**Tech:** Python, CrewAI, LangGraph, Ollama  
+🔗 https://github.com/AnkithBinagekar
+
+---
+
+### 🏥 PrimeCare – Doctor–Patient Portal
+Healthcare web application for appointment booking, doctor schedules, patient records, and video consultations.
+
+**Tech:** PHP, MySQL, HTML, CSS, JavaScript  
+🔗 https://github.com/AnkithBinagekar
+
+---
+
+## 🔹 What I'm Currently Working On
+- Improving medical image segmentation pipelines  
+- Building more production-style FastAPI backends  
+- Exploring advanced LLM agent workflows  
+
+---
+
+## 🔹 Let's Connect
+📧 Email: ankithbinagekar2002@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/ankithbinagekar  
+
+---
+
+⭐ Feel free to explore my repositories and reach out!
