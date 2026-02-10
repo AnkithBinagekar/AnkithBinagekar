@@ -1,6 +1,6 @@
 # Hi, I'm Ankith Binagekar 👋
 
-AI/ML-focused Full-Stack Developer and final-year Information Technology undergraduate (Class of 2026) with hands-on experience building and deploying AI-powered applications. I specialize in integrating machine learning models into scalable backend systems and modern web interfaces.
+AI/ML-focused Full-Stack Developer and final-year Information Technology undergraduate with hands-on experience building and deploying AI-powered applications. I specialize in integrating machine learning models into scalable backend systems and modern web interfaces.
 
 ---
 
