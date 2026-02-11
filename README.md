@@ -1,11 +1,11 @@
 # Hi, I'm Ankith Binagekar 👋
 
-AI/ML-focused Full-Stack Developer and final-year Information Technology undergraduate with hands-on experience building and deploying AI-powered applications. I specialize in integrating machine learning models into scalable backend systems and modern web interfaces.
+AI/ML-focused Full-Stack Developer and Information Technology graduate with hands-on experience building and deploying AI-powered applications. I specialize in integrating machine learning models into scalable backend systems and modern web interfaces.
 
 ---
 
 ## 🔹 About Me
-- Final-year B.E. IT student from Goa, India  
+- B.E. Information Technology Padre Conceição College of Engineering, Goa India  
 - Interested in Applied Machine Learning, Backend Engineering, and AI-driven Full-Stack Development  
 - Strong in Python, FastAPI, PyTorch, React, and AWS  
 - Enjoy building end-to-end systems: data → model → API → UI → deployment  
