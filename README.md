@@ -47,7 +47,9 @@ Production-ready full-stack MERN web application for managing residential societ
 Supports digital notices, complaints, visitor tracking, facility booking, maintenance requests, and payments.
 
 **Tech:** React, Node.js, Express, MongoDB Atlas, JWT, Vercel, Render
-🔗 https://github.com/AnkithBinagekar/LivingLink
+🔗[ https://github.com/AnkithBinagekar/LivingLink](https://living-link.vercel.app/)
+
+
 ---
 ### 🏥 PrimeCare – Doctor–Patient Portal
 Healthcare web application for appointment booking, doctor schedules, patient records, and video consultations.
