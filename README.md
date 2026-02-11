@@ -14,11 +14,12 @@ AI/ML-focused Full-Stack Developer and Information Technology graduate with hand
 
 ## 🔹 Tech Stack
 **Languages:** Python, JavaScript, SQL, C++, Java, C  
-**AI / ML:** PyTorch, MONAI, CNNs, Computer Vision, LLMs, Generative AI, Multi-Agent Systems  
-**Frameworks:** FastAPI, LangChain, CrewAI, LangGraph  
+**AI / ML:** PyTorch, MONAI, CNNs, Computer Vision, LLMs, Generative AI, Multi-Agent Systems, Model Inference Pipelines, Data Preprocessing  
+**Frameworks & Libraries:** Node.js, Express.js, FastAPI, LangChain, CrewAI, LangGraph
 **Frontend:** React, HTML, CSS, Tailwind CSS  
-**Databases:** MySQL, PostgreSQL  
+**Databases:** MongoDB, MySQL, PostgreSQL 
 **Cloud & Tools:** AWS (EC2, S3), Docker (basic), Git, GitHub, Ollama, Vercel  
+**Concepts:** RESTful APIs, JWT Authentication, Role-Based Access Control (RBAC), API Security, CRUD Operations
 
 ---
 
@@ -48,7 +49,6 @@ Supports digital notices, complaints, visitor tracking, facility booking, mainte
 
 **Tech:** React, Node.js, Express, MongoDB Atlas, JWT, Vercel, Render
 🔗[ https://github.com/AnkithBinagekar/LivingLink](https://living-link.vercel.app/)
-
 
 ---
 ### 🏥 PrimeCare – Doctor–Patient Portal
