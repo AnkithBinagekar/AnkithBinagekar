@@ -41,7 +41,15 @@ Supports local LLM inference via Ollama and modular Python pipelines.
 🔗 [https://github.com/AnkithBinagekar](https://github.com/AnkithBinagekar/multi-agent-research-assistant)
 
 ---
+---
+### 🏢 LivingLink – Society Management Platform
 
+Production-ready full-stack MERN web application for managing residential societies with role-based dashboards, secure authentication, and cloud deployment.
+Supports digital notices, complaints, visitor tracking, facility booking, maintenance requests, and payments.
+
+**Tech:** React, Node.js, Express, MongoDB Atlas, JWT, Vercel, Render
+🔗 https://github.com/AnkithBinagekar/LivingLink
+---
 ### 🏥 PrimeCare – Doctor–Patient Portal
 Healthcare web application for appointment booking, doctor schedules, patient records, and video consultations.
 
