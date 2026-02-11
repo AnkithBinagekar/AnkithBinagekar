@@ -41,7 +41,6 @@ Supports local LLM inference via Ollama and modular Python pipelines.
 🔗 [https://github.com/AnkithBinagekar](https://github.com/AnkithBinagekar/multi-agent-research-assistant)
 
 ---
----
 ### 🏢 LivingLink – Society Management Platform
 
 Production-ready full-stack MERN web application for managing residential societies with role-based dashboards, secure authentication, and cloud deployment.
