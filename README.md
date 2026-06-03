@@ -27,12 +27,12 @@ API Security, CRUD Operations
 
 ## 🔹 Featured Projects
 
-### AI-Based Resume Analyzer React, FastAPI, Python, SBERT, ChromaDB
-– An AI-powered ATS platform using NLP and machine learning pipelines to evaluate resumes against job
+### AI-Based Resume Analyzer 
+An AI-powered ATS platform using NLP and machine learning pipelines to evaluate resumes against job
 descriptions and rank candidate relevance.
-– Implemented layout-aware PDF parsing and OCR pipelines using PyMuPDF, Tesseract OCR, and Groq LLM APIs to
+Implemented layout-aware PDF parsing and OCR pipelines using PyMuPDF, Tesseract OCR, and Groq LLM APIs to
 process scanned recruitment documents and extract candidate insights.
-– Integrated Retrieval-Augmented Generation (RAG) using ChromaDB and Groq LLM APIs, while deploying the platform with JWT authentication using AWS EC2, Render, and Vercel.
+Integrated Retrieval-Augmented Generation (RAG) using ChromaDB and Groq LLM APIs, while deploying the platform with JWT authentication using AWS EC2, Render, and Vercel.
 
 **Tech:** React, FastAPI, Python, SBERT, ChromaDB
 
