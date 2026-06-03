@@ -35,7 +35,9 @@ process scanned recruitment documents and extract candidate insights.
 – Integrated Retrieval-Augmented Generation (RAG) using ChromaDB and Groq LLM APIs, while deploying the platform with JWT authentication using AWS EC2, Render, and Vercel.
 
 **Tech:** React, FastAPI, Python, SBERT, ChromaDB
-🔗 [https://github.com/AnkithBinagekar]([https://segmentation-demo.vercel.app/](https://ai-based-resume-analyzer-eta.vercel.app/))
+
+🔗 [https://github.com/AnkithBinagekar](https://ai-based-resume-analyzer-eta.vercel.app/)
+
 ---
 
 ### 🧠 Medical Image Segmentation Platform
