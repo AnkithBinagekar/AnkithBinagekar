@@ -27,6 +27,12 @@ API Security, CRUD Operations
 
 ## 🔹 Featured Projects
 
+### 🖐️👤  GestureSync
+GestureSync is a desktop application that enables users to control a computer using a standard webcam instead of traditional input devices. By combining computer vision and machine learning, the system recognizes hand gestures and facial movements in real time to perform common mouse operations such as cursor movement, clicking, dragging, and scrolling.
+
+**Tech:** Python, OpenCV, MediaPipe, TensorFlow Lite, PyQt5, PyAutoGUI, NumPy
+🔗 https://github.com/AnkithBinagekar/GestureSyncApp
+---
 ### AI-Based Resume Analyzer 
 An AI-powered ATS platform using NLP and machine learning pipelines to evaluate resumes against job
 descriptions and rank candidate relevance.
